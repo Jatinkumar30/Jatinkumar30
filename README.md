@@ -10,10 +10,10 @@
 <p>
 <a align= "center" href="https://github.com/jatinkumar30">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar30&theme=radical">
-  <img align="right" height="265" width="490px" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gifv" /> </a>
+  <img align="right" height="215" width="390px" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gifv" /> </a>
   
 <!--   for image -->
-<!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<!-- <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p> -->
 
   <div align="center">
