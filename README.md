@@ -10,22 +10,29 @@
 <p>
 <a align= "center" href="https://github.com/jatinkumar30">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar30&theme=radical">
+  <img align="right" height="250" width="500px" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gifv" /> </a>
   
 <!--   for image -->
 <!-- <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p> -->
 
-  <br>
-  <br>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatinkumar30&show_icons=true&theme=radical" />
+  <div align="center">
+    <br>
+    <br>
+    <hr>
+    <br>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatinkumar30&show_icons=true&theme=radical" />
+  </div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkumar30&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
  -->
 
   <br><br>
-  
-  <p align="center"> <a href="https://twitter.com/jatinrawal30" target="blank"><img src="https://img.shields.io/twitter/follow/jatinrawal30?logo=twitter&style=for-the-badge" alt="jatinkumar" /></a> </p>
+<div>
+    <p align="left"> <a href="https://twitter.com/jatinrawal30" target="blank"><img src="https://img.shields.io/twitter/follow/jatinrawal30?logo=twitter&style=for-the-badge" alt="jatinkumar" /></a> </p>
+</div>
+
 
   <hr>
   <br>
