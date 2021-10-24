@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I am Jatin Kumar</h1>
 <br>
 <hr>
-<p align="center">I am a 3rd year student of Computer Science and Information Technology ,I am a front-end developer and currently trying to hold a grip on Machine learning</p>
+<p align="center">I am a pre-final year student of Computer Science and Information Technology ,I am a front-end developer and currently trying to hold a grip on Machine learning</p>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumar30&label=Profile%20views&color=0e75b6&style=flat" alt="Jatin" /> </p> -->
 
