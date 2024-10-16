@@ -10,7 +10,7 @@
 <p>
 <a align= "center" href="https://github.com/jatinkumar30">
 <img alt= "stats card" height="200px" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar30&theme=radical">
-  <img align="right" height="215" width="365px" src="https://64.media.tumblr.com/b1785743b8742d255508773ce5bbc320/tumblr_pp1k8pBF6o1tf04pfo1_640.gifv" /> </a>
+  <img align="right" height="215" width="365px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
   
 <!--   for image -->
 <!-- <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
